@@ -29,16 +29,16 @@
       "inventoryValue": 264039.44
     },
     "sports": {
-      "count": 6,
-      "inventoryValue": 127578.7
+      "count": 7,
+      "inventoryValue": 150879.85
     },
     "electronics": {
       "count": 3,
       "inventoryValue": 29243.79
     },
     "books": {
-      "count": 3,
-      "inventoryValue": 80349.15
+      "count": 2,
+      "inventoryValue": 58117.15
     }
   }
 }
